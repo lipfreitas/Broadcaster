@@ -1,22 +1,16 @@
 {
-  "name": "Socket-Chat-Example",
+  "name": "Broadcaster",
   "description": "my first socket.io app",
-  "website": "https://github.com/socketio/chat-example",
-  "repository": "https://github.com/socketio/chat-example",
+  "website": "https://github.com/lipfreitas/Broadcaster",
+  "repository": "https://github.com/lipfreitas/Broadcaster",
   "logo": "https://node-js-sample.herokuapp.com/node.svg",
   "success_url": "/",
   "keywords": [
-    "node",
-    "express",
-    "socket.io",
-    "realtime",
-    "websocket"
   ],
   "scripts": {
   },
   "addons": [
   ],
   "env": {
-    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs"
   }
 }
